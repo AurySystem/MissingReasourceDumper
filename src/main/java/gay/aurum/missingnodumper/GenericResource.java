@@ -41,6 +41,7 @@ public class GenericResource {
 		return out;
 
 	}
+
 	public static BufferedImage missingtex = bufferedMissing()/*convertNativeToBuffer(MissingSprite.getMissingSpriteTexture().getImage())*/;
 
 	public String data;
